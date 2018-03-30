@@ -10,7 +10,7 @@ from wrappers import Identify
 from wrappers import NetworkInfo
 
 
-from ui import TimelapseUi
+#from ui import TimelapseUi
 
 MIN_INTER_SHOT_DELAY_SECONDS = timedelta(seconds=30)
 MIN_BRIGHTNESS = 20000
