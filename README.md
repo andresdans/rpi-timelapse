@@ -21,11 +21,6 @@ Run
 
 python tl.py
 
-Run on boot
------------
-
-Follow the instructions at <http://learn.adafruit.com/drive-a-16x2-lcd-directly-with-a-raspberry-pi/init-script> using `timelapse` file from this repo instead of `lcd`.
-
 
 Post-Processing
 ===============
