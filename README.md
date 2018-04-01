@@ -2,7 +2,8 @@ rpi-timelapse
 =============
 
 A timelapse camera controller for Raspberry Pi and Canon EOS 350d (should work with any camera supported by `gphoto2` with minor tweaks.
-This fork from the David´s one is to be get rid-off the LCD plate and be Python alone. Also to test other CANON EOS cameras
+
+This fork from the David´s one is to get rid-off the LCD plate and run the Python script alone. Also to test other CANON EOS cameras
 
 
 
