@@ -15,6 +15,8 @@ rpi-timelapse uses `gphoto2` and `imagemagick`.  To install these dependencies o
 ```
 $ sudo apt-get install gphoto2
 $ sudo apt-get install imagemagick
+$ sudo apt-get install git
+git clone https://github.com/andresdans/rpi-timelapse.git
 ```
 
 Run
